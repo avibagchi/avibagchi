@@ -8,9 +8,10 @@
 - 🌱 Paid Internship **SWE @ Health Research Inc/NYSDOH**
 
 - 📝 Publications
-  - [https://www.mdpi.com/1424-8220/22/2/695](https://www.mdpi.com/1424-8220/22/2/695)
-  - [https://www.newyorkfed.org/medialibrary/media/outreach-and-education/hsfc-book-2021-final-online-version-small)
-  - [https://www.wageningenacademic.com/doi/epdf/10.52004/jemca2021.s1)
+  - [Mosquito Edge: An Edge-Intelligent Real-Time Mosquito Threat Prediction using IoT-Enabled Hardware System](https://www.mdpi.com/1424-8220/22/2/695)
+  - [Predicting Mosquito Threat with Machine Learning and Edge Computing](https://www.wageningenacademic.com/doi/epdf/10.52004/jemca2021.s1)
+  - [A New Approach to Forecasting Inequality: Using Machine Learning to Predict the Gini Coefficient](https://www.newyorkfed.org/medialibrary/media/outreach-and-education/hsfc-book-2021-final-online-version-small)
+  
 
 - 📄 Know about all of my experiences [https://www.linkedin.com/in/avi-bagchi-a68733215/](https://www.linkedin.com/in/avi-bagchi-a68733215/)
 
