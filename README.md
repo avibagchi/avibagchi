@@ -5,7 +5,7 @@
 
 - 🔭 Interests **Computational Ecology, Machine Learning, Data Science**
 
-- 🌱 Paid Internship **SWE @ Health Research Inc/NYSDOH**
+- 🌱 Paid Summer Internship **SWE @ Health Research Inc/NYSDOH**
 
 - 📝 Publications
   - [Mosquito Edge: An Edge-Intelligent Real-Time Mosquito Threat Prediction using IoT-Enabled Hardware System](https://www.mdpi.com/1424-8220/22/2/695)
