@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Avi</h1>
 <h3 align="center">CS + Economics @ University of Pennsylvania</h3>
 
-- 👨‍💻 Co-Founder/PI **Find Your Invasive (FYI) & MosquitoEdge**
+- 👨‍💻 Co-Founder/PI **[Find Your Invasive (FYI)](https://github.com/Find-Your-Invasive) & [MosquitoEdge](https://github.com/MosquitoEdge)**
 
 - 🔭 Interests **Computational Ecology, Machine Learning, Data Science**
 
