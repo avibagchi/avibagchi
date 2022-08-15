@@ -7,7 +7,10 @@
 
 - 🌱 Paid Internship **SWE @ Health Research Inc/NYSDOH**
 
-- 📝 Publication [https://www.mdpi.com/1424-8220/22/2/695](https://www.mdpi.com/1424-8220/22/2/695)
+- 📝 Publications
+  - [https://www.mdpi.com/1424-8220/22/2/695](https://www.mdpi.com/1424-8220/22/2/695)
+  - [https://www.newyorkfed.org/medialibrary/media/outreach-and-education/hsfc-book-2021-final-online-version-small)
+  - [https://www.wageningenacademic.com/doi/epdf/10.52004/jemca2021.s1)
 
 - 📄 Know about all of my experiences [https://www.linkedin.com/in/avi-bagchi-a68733215/](https://www.linkedin.com/in/avi-bagchi-a68733215/)
 
