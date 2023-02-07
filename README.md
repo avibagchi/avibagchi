@@ -6,7 +6,7 @@
 - 🔭 Interests **Computational Ecology, Machine Learning, Data Science**
 
 - 🌱 
-      - Paid Summer Internship **SWE @ Health Research Inc/NYSDOH** \\
+      - Paid Summer Internship **SWE @ Health Research Inc/NYSDOH** \
       - Paid Research Assistant, Wharton School 
 
 - 📝 Publications
