@@ -1,5 +1,5 @@
 <h1 align="center">Avi Bagchi</h1>
-<h3 align="center">CS + Economics @ University of Pennsylvania</h3>
+<h3 align="center">CS + Economics @ University of Pennsylvania | Researcher @ Wharton </h3>
 
 - 👨‍💻 Co-Founder **[Find Your Invasive](https://github.com/Find-Your-Invasive) & [MosquitoEdge](https://github.com/MosquitoEdge)**
 
