@@ -7,8 +7,8 @@
 
 - 🌱 
   - Paid Research Assistant, **The Wharton School**
-  - Former Paid Summer Intern, **SWE @ Health Research Inc/NYSDOH** 
-  - Former Summer Intern, **NASA**
+  - Former Paid Summer SWE Intern, **Health Research Inc/NYSDOH** 
+  - Former Summer Research Intern, **NASA**
   
       
 - 📝 Publications
