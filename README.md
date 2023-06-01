@@ -6,8 +6,10 @@
 - 🔭 Interests **Computational Ecology, Machine Learning, Data Science**
 
 - 🌱 
-  - Paid Summer Internship **SWE @ Health Research Inc/NYSDOH** 
   - Paid Research Assistant, **The Wharton School**
+  - Paid Summer Internship **SWE @ Health Research Inc/NYSDOH** 
+  - NASA Intern
+  
       
 - 📝 Publications
   - [Mosquito Edge: An Edge-Intelligent Real-Time Mosquito Threat Prediction using IoT-Enabled Hardware System](https://www.mdpi.com/1424-8220/22/2/695)
