@@ -6,6 +6,7 @@
 - 🔭 Interests **Computational Ecology, Machine Learning, Data Science**
 
 - 🌱 
+  - Quantitative Research Intern, **Nebula Research & Development LLC**
   - Paid Research Assistant, **The Wharton School**
   - SWE Intern, **SolarFi**
   - Former Paid Summer SWE Intern, **Health Research Inc/NYSDOH** 
