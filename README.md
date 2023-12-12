@@ -8,9 +8,9 @@
 - 🌱 
   - Quantitative Research Intern, **Nebula Research & Development LLC**
   - Paid Research Assistant, **The Wharton School**
-  - SWE Intern, **SolarFi**
-  - Former Paid Summer SWE Intern, **Health Research Inc/NYSDOH** 
-  - Former Summer Research Intern, **NASA**
+  - Former SWE Intern, **SolarFi**
+  - Former SWE Intern, **Health Research Inc/NYSDOH** 
+  - Former Research Intern, **NASA**
   
       
 - 📝 Publications
