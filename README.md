@@ -6,7 +6,6 @@
 - 🔭 Interests **Computational Ecology, Machine Learning, Data Science**
 
 - 🌱 
-  - Incoming in Accelerate Program **IBM Research**
   - Quantitative Research Intern, **Nebula Research & Development LLC**
   - Paid Research Assistant, **The Wharton School**
   - Former SWE Intern, **SolarFi**
