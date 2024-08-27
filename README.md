@@ -6,8 +6,9 @@
 - 🔭 Interests **Computational Ecology, Machine Learning, Data Science**
 
 - 🌱 
+  - Undergraduate Researcher, **University of Illinois Urbana-Champaign**
   - Quantitative Research Intern, **Nebula Research & Development LLC**
-  - Paid Research Assistant, **The Wharton School**
+  - Undergraduate Researcher, **The Wharton School**
   - Former SWE Intern, **SolarFi**
   - Former SWE Intern, **Health Research Inc/NYSDOH** 
   - Former Research Intern, **NASA**
