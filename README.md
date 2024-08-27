@@ -7,8 +7,8 @@
 
 - 🌱 
   - Undergraduate Researcher, **University of Illinois Urbana-Champaign**
-  - Quantitative Research Intern, **Nebula Research & Development LLC**
-  - Undergraduate Researcher, **The Wharton School**
+  - Former Quantitative Research Intern, **Nebula Research & Development LLC**
+  - Former Undergraduate Researcher, **The Wharton School**
   - Former SWE Intern, **SolarFi**
   - Former SWE Intern, **Health Research Inc/NYSDOH** 
   - Former Research Intern, **NASA**
