@@ -3,7 +3,7 @@
 
 - 👨‍💻 Co-Founder **[Find Your Invasive](https://github.com/Find-Your-Invasive) & [MosquitoEdge](https://github.com/MosquitoEdge)**
 
-- 🔭 Interests **Computational Ecology, Machine Learning, Data Science**
+- 🔭 Interests **Machine Learning, Cryptography, Computational Ecology**
 
 - 🌱 
   - Undergraduate Researcher, **University of Illinois Urbana-Champaign**
