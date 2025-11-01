@@ -5,18 +5,9 @@
 
 - Experience 
   - Undergraduate Researcher, **University of Illinois Urbana-Champaign**
-  - Former Quantitative Research Intern, **Nebula Research & Development LLC**
-  - Former Undergraduate Researcher, **The Wharton School**
-  - Former Research Intern, **NASA**
+  - Research Intern, **MIT Lincoln Labs**
+  - Quantitative Research Intern, **Nebula Research & Development LLC**
       
-- Publications
-  - [Mosquito Edge: An Edge-Intelligent Real-Time Mosquito Threat Prediction using IoT-Enabled Hardware System](https://www.mdpi.com/1424-8220/22/2/695)
-  - [Predicting Mosquito Threat with Machine Learning and Edge Computing](https://www.wageningenacademic.com/doi/epdf/10.52004/jemca2021.s1)
-  - [A New Approach to Forecasting Inequality: Using Machine Learning to Predict the Gini Coefficient](https://www.newyorkfed.org/medialibrary/media/outreach-and-education/hsfc-book-2021-final-online-version-small)
-
-- Co-Founder **[Find Your Invasive](https://github.com/Find-Your-Invasive) & [MosquitoEdge](https://github.com/MosquitoEdge)**
-
-
 - Email: **aviba@seas.upenn.edu**
 
 <h3 align="left">Connect with me:</h3>
